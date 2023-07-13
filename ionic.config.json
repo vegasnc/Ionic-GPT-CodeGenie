@@ -1,0 +1,7 @@
+{
+  "name": "CodeGenie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
